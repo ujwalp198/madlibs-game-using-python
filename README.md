@@ -1,3 +1,3 @@
 # firstrepo
-this is my first rpo 
-i know nothing about git and github
+this is my first repo 
+I know nothing about Git and GitHub
